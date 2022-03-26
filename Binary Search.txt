@@ -1,7 +1,5 @@
 
-//   2.Binary Search : - > sort data then divide data then search element.
-
-//   program : - >
+//  Binary Search Program
 
  #include <iostream>
 
